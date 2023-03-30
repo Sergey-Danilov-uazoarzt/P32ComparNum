@@ -14,5 +14,6 @@ public class Main {
             } else if (a > b) {
                 System.out.println(a + " > " + b);
             }
+        System.out.println("Good luck!");
     }
 }
