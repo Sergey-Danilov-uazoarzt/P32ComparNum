@@ -16,7 +16,7 @@ public class Main {
             } else {
                 System.out.println(a + " > " + b);
             }
+            System.out.println("Good luck!");
         }
-        System.out.println("Good luck!");
     }
 }
